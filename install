@@ -1,7 +1,7 @@
 cxn_pgn v0.1 install file
 
 
-    1. Make sure you have Libnet installed, pacgen was written with 1.1.2.1
+    1. Make sure you have Libnet installed, packet generator was written with 1.1.2.1
        installed. Goto www.packetfactory.net or somewhere else and get it.
 
     2. Read the README.md file
