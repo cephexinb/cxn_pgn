@@ -1,0 +1,16 @@
+cxn_pgn v0.1 install file
+
+
+    1. Make sure you have Libnet installed, pacgen was written with 1.1.2.1
+       installed. Goto www.packetfactory.net or somewhere else and get it.
+
+    2. Read the README.md file
+
+    3. Compile via the libnet-config script (at least this is how I did it):
+ 
+        gcc `libnet-config --cflags --defines` cxn_pgn.c -o cxn_pgn \
+        `libnet-config --libs`
+
+    4. Or for the lazy run the install.sh script
+
+eof
